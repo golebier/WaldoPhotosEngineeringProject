@@ -13,3 +13,8 @@ I'll finish it the next free time, just for fun. But this time I couldn't finish
 I used Spark Scala App but to simplify you can execute it from REPL:
 spark-shell --master <your master> --jars <path>/sanselan-0.97-incubator.jar,<parh>/commons-imaging-1.0-R1534292.jar -i WaldoPhotosEngineeringProjectApp.scala
 
+# A simple version is finished.
+# I have problem with serialization on exception.
+# I'll find it next time!
+
+Uncommented lines for one URL shows flow for one URL/JPG
